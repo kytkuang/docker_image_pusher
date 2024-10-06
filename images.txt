@@ -1,4 +1,1 @@
-dinotools/dionaea 
-hello-world
-vulnerables/web-dvwa
 imdevops/hfish
