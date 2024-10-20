@@ -1,2 +1,2 @@
 threatbook/hfish-server:latest
-imdevops/hfish
+hfish
