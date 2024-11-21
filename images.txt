@@ -1,2 +1,1 @@
-threatbook/hfish-server:latest
-hfish
+tkd3v/kippo
