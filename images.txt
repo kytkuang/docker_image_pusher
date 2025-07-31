@@ -1,1 +1,1 @@
-vkanjilal/oracle10g
+vulhub/samba:4.6.3
